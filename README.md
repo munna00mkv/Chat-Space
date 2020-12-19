@@ -14,7 +14,8 @@ It is a chat Room Application Just like What's app Room. it has following featur
 
 ## Project Structure
 ### 1. Login Screen
-<img src ="C:\Users\mehra\Desktop\screenShot">
+![Login Activity](https://user-images.githubusercontent.com/56501841/102693608-ca57ef00-4241-11eb-9981-011e8c367adf.png)
+
 
 
 
