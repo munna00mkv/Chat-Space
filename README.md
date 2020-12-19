@@ -9,8 +9,13 @@ It is a chat Room Application Just like What's app Room. it has following featur
 ## Tools and Technology Used
 1. java :- For backend Logic.
 2. XML :- For Frontend Design. 
-3. Firebase :- For Handling Database. 
+3. Firebase :- For Handling Database and Authentication. 
 4. Material Design :- For interactive UI. 
+
+## Project Structure
+### 1. Login Screen
+<img src ="C:\Users\mehra\Desktop\screenShot">
+
 
 
 
