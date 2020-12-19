@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9519529702",
+    "firebase_url": "https://chat-space-dc669.firebaseio.com",
+    "project_id": "chat-space-dc669",
+    "storage_bucket": "chat-space-dc669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9519529702:android:4b61e15617677fe618c527",
+        "android_client_info": {
+          "package_name": "com.example.chatspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9519529702-nqjgb91t3auj9t4luvdp1kmvcl86v5ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAHZKFr7JtQnCT-J6fzCWIHCgAH33yQ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9519529702-nqjgb91t3auj9t4luvdp1kmvcl86v5ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
