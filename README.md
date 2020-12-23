@@ -10,11 +10,7 @@ It is a chat Room Application Just like What's app Room. it has following featur
 1. java :- For backend Logic.
 2. XML :- For Frontend Design. 
 3. Firebase :- For Handling Database and Authentication. 
-4. Material Design :- For interactive UI. 
-
-## Project Structure
-### 1. Login Screen
-![Login Activity](https://user-images.githubusercontent.com/56501841/102693608-ca57ef00-4241-11eb-9981-011e8c367adf.png)
+4. Material Design :- For interactive ui
 
 
 
