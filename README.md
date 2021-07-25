@@ -2,8 +2,8 @@
 
 # Chat App - Android App ![Build status](https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master)
 ## About
->> Developed Android App that helps user to communicate with each other and within a Group.
->> used Firebase as the database for authenticating the user's information and validating them.
+- Developed Android App that helps user to communicate with each other and within a Group.
+- used Firebase as the database for authenticating the user's information and validating them.
 ## Screenshots
 ## 1. Login and sign up screen
 [<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/Screenshot%202021-07-25%20104922.jpg" align="left"
@@ -48,6 +48,8 @@ width="200"
 - XML
 - MVVM Architecture Complonent
 - Firebase
+## CourseWork
+This project is made with a You tube channel - Coding Cafe
     
 
 
