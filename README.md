@@ -1,18 +1,25 @@
 ### Disclaimer: This Code cannot be used for anything that might be considered as commercial use.
 
-# Chat Space - A Chat Room App
-## About Chat Space ?
-It is a chat Room Application Just like What's app Room. it has following features and Functionalities:-
-1. Private Chat (One to one chat).
-2. Group Chat (one to Everyone).
+# Running App - Android App ![Build status](https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master)
+## About
+>> Developed Android App that helps user to communicate with each other and within a Group.
+>> used Firebase as the database for authenticating the user's information and validating them.
+## Screenshots
+## 1. Login and sign up screen
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/Screenshot%202021-07-25%20104922.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/Screenshot%202021-07-25%20104922.jpg)
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/login2.jpg" align="left"
+width="200"
+      hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/login2.jpg)
 
-## Tools and Technology Used
-1. java :- For backend Logic.
-2. XML :- For Frontend Design. 
-3. Firebase :- For Handling Database and Authentication. 
-4. Material Design :- For interactive ui
-
-
+## Tools and Technology used
+- Android Studio
+- Kotlin
+- XML
+- MVVM Architecture Complonent
+- Google Map Api
+    
 
 
 
