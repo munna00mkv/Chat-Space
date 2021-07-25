@@ -29,6 +29,18 @@ width="200"
 [<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main-screen4.jpg" align="center"
 width="200"
     hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main-screen4.jpg)
+## 3. Chatting Activity
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/chating.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/chating.jpg)
+## 4. Profile Activity
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/profile.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/profile.jpg)
+
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/profile2.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/profile2.jpg)
 
 ## Tools and Technology used
 - Android Studio
