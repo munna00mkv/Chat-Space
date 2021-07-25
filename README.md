@@ -49,7 +49,7 @@ width="200"
 - MVVM Architecture Complonent
 - Firebase
 ## CourseWork
-This project is made with a You tube channel - Coding Cafe
+Coding Cafe (youtube Channel)
     
 
 
