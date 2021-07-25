@@ -9,7 +9,7 @@
 [<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/Screenshot%202021-07-25%20104922.jpg" align="left"
 width="200"
     hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/Screenshot%202021-07-25%20104922.jpg)
-[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/login2.jpg" align="left"
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/login2.jpg" align="center"
 width="200"
       hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/login2.jpg)
 
