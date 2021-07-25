@@ -12,6 +12,23 @@ width="200"
 [<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/login2.jpg" align="center"
 width="200"
       hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/login2.jpg)
+      
+## 2. Main Screen
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main_screen.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main_screen.jpg)
+
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main_screen2.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main_screen2.jpg)
+
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main-screen3.jpg" align="left"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main-screen3.jpg)
+
+[<img src="https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main-screen4.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">](https://github.com/munna00mkv/Chat-Space/blob/master/screenshot/main-screen4.jpg)
 
 ## Tools and Technology used
 - Android Studio
